@@ -15,7 +15,8 @@ npm start
 ```
 
 
-### Using Docker
+### Using Docker-compose
 
-docker pull postgres
-
+Start: `docker-compose up -d`
+Stop: `docker-compose down`
+Reset: `docker-compose down -v`
