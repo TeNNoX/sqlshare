@@ -1,3 +1,5 @@
+**Forked for https://github.com/sasha-alias/sqlshare/pull/2**
+
 ## SQL Share
 
 Sharing server for SQL documents created with [SQL Tabs](http://www.sqltabs.com).
